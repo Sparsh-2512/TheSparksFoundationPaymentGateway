@@ -4,7 +4,7 @@
 }
 
 .logo1::before{
-    background: url('images/needy2.jpg') no-repeat center center/cover;
+    background: url('needy2.jpg') no-repeat center center/cover;
     content: "";
     position: absolute;
     width: 100%;
