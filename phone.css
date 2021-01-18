@@ -1,39 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
+#navbar {
+    gap: 0;
 }
-.logo{
-    filter: invert(1);
-    padding-left: 65%;
-    padding-top: 27%;
-    height: 6rem;
-    width: 6rem;
+
+.project {
+    font-size: 1.4rem;
 }
-.content{
-    color: #e20e0e;
-    font-size: 0.7rem;
-    width: 8rem;
-    padding-left: 61%;
-    padding-top: 7%;
-    font-family: helvetica;
-    line-height: 1.6rem;
-}
-.para{
-    color: white;
-    padding-top: 3%;
-    font-size: 0.6rem;
-    width: 35%;
-    padding-left: 63%;
-    font-family: helvetica;
-    line-height: 1rem;
-}
-.b1{
-    margin-left: 66%;
-    margin-top: 6%;
-    width: 5rem;
-    height: 1.7rem;
-    background: #005ae2;
-    color: white;
-    border: none;
-    font-size: 0.7rem;
+
+#quotesContainer {
+    font-size: 1rem;
 }
